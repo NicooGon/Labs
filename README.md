@@ -9,7 +9,7 @@
 
 ![InstaloSQL Server](https://github.com/NicooGon/Labs/assets/131786871/1048791d-c0cb-4b1f-97f0-f222ebbb0b57)
 
-#### 3) Entre a la base de datos de SQL Y le hice el bind de direccion:
+#### 3) Entre a la base de datos de SQL y le hice el bind de direccion:
 
 ![EntreAMYSQLDataBASE Y BINDEO DIRECCION PARA PODER ENTRAR CUALQUIER PERSONA ](https://github.com/NicooGon/Labs/assets/131786871/306ca755-33f3-458b-b39f-38afbd2c8620)
 
