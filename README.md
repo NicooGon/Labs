@@ -1,7 +1,7 @@
 # Lab9
 ###Instalación de MySQL y PostgreSQL en Ubuntu 22.04
 
-##1) Conecte la PC con la base de datos:
+####1) Conecte la PC con la base de datos:
 
 ![ConectarPCaServidor](https://github.com/NicooGon/Labs/assets/131786871/7dc19ca1-beca-4aea-bd71-71227dd57e64)
 
